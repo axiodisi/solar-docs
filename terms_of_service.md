@@ -1,6 +1,6 @@
 # Terms of Service
 
-Effective Date: [Insert Date]
+Effective Date: January 21, 2025
 
 ## Description of Services
 We provide free solar savings estimates based on general data and your quiz responses. These estimates are for informational purposes only.
@@ -26,4 +26,4 @@ We reserve the right to modify these terms at any time. Updates will be posted h
 
 ---
 
-Contact us at [your email] for more information.
+Contact us at rocco.colasaccojr@gmail.com for more information.
