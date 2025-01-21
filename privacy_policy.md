@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective Date: [Insert Date]
+Effective Date: January 21, 2025
 
 ## What Information Do We Collect?
 We collect the following information:
@@ -24,11 +24,11 @@ To calculate solar savings estimates, we use general solar irradiance and energy
 We may use cookies to improve your experience or for analytics purposes.
 
 ## User Rights
-You can request your data be removed by contacting us at [your email].
+You can request your data be removed by contacting us at rocco.colasaccojr@gmail.com.
 
 ## Changes to This Privacy Policy
 We reserve the right to update this policy. Any changes will be reflected here.
 
 ---
 
-If you have questions about this policy, contact us at [your email].
+If you have questions about this policy, contact us at rocco.colasaccojr@gmail.com.
